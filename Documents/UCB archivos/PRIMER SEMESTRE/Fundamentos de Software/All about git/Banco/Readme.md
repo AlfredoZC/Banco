@@ -1,5 +1,6 @@
 # Historia de Usuario No. X
 
+
 ## Título de la Historia
 
 `Como [rol], necesito [funcionalidad] para que [beneficio]`
